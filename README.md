@@ -4,6 +4,10 @@
 
 O projeto **Amigo Secreto** é uma aplicação web que permite que um grupo de pessoas faça um sorteio de amigo secreto de maneira simples e interativa. O usuário pode adicionar os nomes dos amigos, visualizar a lista de amigos e, em seguida, realizar o sorteio para ver quem tirou quem.
 
+## Acesse a aplicação
+
+Você pode acessar a aplicação web diretamente [aqui](https://leticia-fm.github.io/challenge-amigo-secreto/).
+
 ## Funcionalidades
 
 - **Adicionar amigos**: Permite adicionar os nomes dos amigos à lista.
@@ -18,8 +22,6 @@ O projeto **Amigo Secreto** é uma aplicação web que permite que um grupo de p
 
 ## Instalação
 
-Para rodar o projeto localmente, siga os passos abaixo:
-
-1. **Clone o repositório**
+Para rodar o projeto localmente, basta clonar o repositório.
 
 
